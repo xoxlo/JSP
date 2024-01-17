@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>오</title>
+<title>오류</title>
 </head>
 <body>
 	<h1>오류가 발생했어요! 다시 시도해보세요!</h1>
